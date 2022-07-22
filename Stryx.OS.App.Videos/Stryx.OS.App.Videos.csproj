@@ -15,4 +15,13 @@
     <PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="6.0.5" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot-dev\audio\" />
+    <Folder Include="wwwroot-dev\img\" />
+    <Folder Include="wwwroot-dev\sass\" />
+    <Folder Include="wwwroot-dev\ts\" />
+    <Folder Include="wwwroot-dev\video\" />
+    <Folder Include="wwwroot-dev\webfonts\" />
+  </ItemGroup>
+
 </Project>
